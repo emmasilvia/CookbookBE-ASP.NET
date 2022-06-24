@@ -1,0 +1,7 @@
+D:\UNI\AN II\S2\PracticaBackEnd\CookbookBackend\CookbookBackend\obj\Debug\net5.0\CookbookBE.csproj.AssemblyReference.cache
+D:\UNI\AN II\S2\PracticaBackEnd\CookbookBackend\CookbookBackend\obj\Debug\net5.0\CookbookBE.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\AN II\S2\PracticaBackEnd\CookbookBackend\CookbookBackend\obj\Debug\net5.0\CookbookBE.AssemblyInfoInputs.cache
+D:\UNI\AN II\S2\PracticaBackEnd\CookbookBackend\CookbookBackend\obj\Debug\net5.0\CookbookBE.AssemblyInfo.cs
+D:\UNI\AN II\S2\PracticaBackEnd\CookbookBackend\CookbookBackend\obj\Debug\net5.0\CookbookBE.csproj.CoreCompileInputs.cache
+D:\UNI\AN II\S2\PracticaBackEnd\CookbookBackend\CookbookBackend\obj\Debug\net5.0\CookbookBE.MvcApplicationPartsAssemblyInfo.cs
+D:\UNI\AN II\S2\PracticaBackEnd\CookbookBackend\CookbookBackend\obj\Debug\net5.0\CookbookBE.MvcApplicationPartsAssemblyInfo.cache
